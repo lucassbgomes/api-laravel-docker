@@ -1,4 +1,4 @@
-<p align="center"><img src="http://www.gomes.eti.br/manutencao/logoManutencaoGomes.png"></p>
+<p align="center"><img src="http://www.gomes.eti.br/gomes.png"></p>
 
 # About api-laravel-docker
 An environment built with docker, to meet an application with backend in Laravel and open frontend.
